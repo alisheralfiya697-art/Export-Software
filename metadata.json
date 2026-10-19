@@ -1,0 +1,6 @@
+{
+  "name": "Export Software - Shipping Bill Management System",
+  "description": "Comprehensive customs shipping bill, e-SANCHIT document management, and ICEGATE export filing platform for exporters and customs brokers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
